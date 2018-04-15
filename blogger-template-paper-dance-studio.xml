@@ -15,6 +15,105 @@
         <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js'/>
 
 <b:skin><![CDATA[
+/* css classes created by Blogger */
+body{}
+
+div.section{}
+
+/* Blogger navbar */
+div.navbar{}
+div.Navbar{}
+
+/* Header */
+div.header{}
+div.Header{}
+div#header-inner{}
+div.titlewrapper{}
+h1.title{}
+div.descriptionwrapper{}
+p.description{}
+
+/* Sidebar */
+div.sidebar{}
+
+/* Main Section */
+div.main{}
+div.Blog{}
+div.blog-posts{}
+
+/* Post Date */
+div.date-outer{}
+h2.date-header{}
+
+/* Posts */
+div.date-posts{}
+div.post-outer{}
+div.post{}
+h3.post-title{}
+div.post-header{}
+div.post-header-line-1{}
+div.post-body{}
+
+/* Post Footer */
+div.post-footer{}
+span.post-author{
+span.post-timestamp{}
+span.post-comment-link{}
+span.post-share-buttons{}
+span.post-labels{}
+span.post-location{}
+.post-feeds{}
+
+/* Post Comments */
+div.comments{}
+div.comments h4{}
+div#Blog1_comments-block-wrapper{}
+div#comments-block{}
+dt.comment-author{}
+dt.comment-author a{}
+dt.comment-author avatar-image-container{}
+dd.comment-body{}
+dd.comment-footer{}
+span.comment-timestamp{}
+p.comment-footer{}
+div.comment-form{}
+h4.comment-post-message{}
+div.comment-form p{}
+iframe.blogger-comment-from-post{}
+
+/* Backlinks */
+div#backlinks-container{}
+
+/* Blog Pager */
+div.blog-pager{}
+div.blog-pager a.blog-pager-newer-link{}
+div.blog-pager a.home-link{}
+
+/* Post Feeds */
+div.post-feeds{}
+
+/ *Footer */
+div.footer{}
+
+/* ----- Widgets -------*/
+div.widget{}
+div.widget>h2{}
+div.widget-content{}
+
+/* Blog Archive Widget */
+div.BlogArchive{}
+div.BlogArchive>h2{}
+div#ArchiveList ul.hierarchy{}
+div#ArchiveList ul.hierarchy li{}
+div#ArchiveList ul.hierarchy li a.toggle{}
+div#ArchiveList ul.hierarchy li a.post-count-link{}
+div#ArchiveList ul.hierarchy li span.post-count{}
+div#ArchiveList ul.hierarchy ul.posts{}
+div#ArchiveList ul.hierarchy ul.posts li{}
+
+/* Attributiion Widget */
+div.Attribution{}
+div.Attribution a{}
 ]]></b:skin>
 
 </head>
